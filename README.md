@@ -73,4 +73,7 @@
 48) TOE - Target of Evoluation
 49) mySQL - 3303 port
 50) ip addresses 192.168.1.1/24 - 11000000.10101000.00000001.00000001
-  0.0.0.0 - 255.255.255.255
+    0.0.0.0 - 255.255.255.255
+51) request time out na connection wrong
+52) Destination host unreachable na routing wrong
+53) 
