@@ -76,4 +76,5 @@
     0.0.0.0 - 255.255.255.255
 51) request time out na connection wrong
 52) Destination host unreachable na routing wrong
-53) 
+53) cd.. for backword
+54) cd for forword
