@@ -1,0 +1,11 @@
+cd.. for backword
+cd for forword
+where for the file location (only used in power shell)
+cd../../ no.of way to be reduce
+cat for read the file (only used in power shell) [for cmd use more]
+>> for the next line
+just type the name for open the file
+mkdir is a directory (to create the folder)
+directly open the file with ls /name of the file
+cp for copy the command
+python -m http.server 80
