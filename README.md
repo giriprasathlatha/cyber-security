@@ -96,5 +96,5 @@
     >ACK
 67) TLS hand shake: transerver security
 68)  Get-FileHash used for finding hash (hash means the official vallue)
-69)  
+69)  all permatutation and compination is called Brut force
 70)  
