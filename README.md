@@ -9,32 +9,33 @@
 9) Protocals (set of rules)
 10) TCP ports-65535
 11) UDP ports-65535
-12) github(HTTP-443)
-13) unsafe(HTTPS-80)
-14) Block Chain Security
-15) Exploit
-16) SQL ingection
-17) Section Hijacking
-18) Phissing
-19) DNS Poisioning
-20) IP addresses
-21) Cloud
-22) Cripto Graphy
-23) ARP poisioning (Addresses Resoning Protocal)
-24) Spoofing
-25) Hasing
-26) Metasploit
-27) Back door
-28) Cross fight
-29) Haking
+12) github(HTTP-443)(lock file)
+13) unsafe(HTTPS-80)(without lock file)
+14) 
+15) Block Chain Security
+16) Exploit
+17) SQL ingection
+18) Section Hijacking
+19) Phissing
+20) DNS Poisioning
+21) IP addresses
+22) Cloud
+23) Cripto Graphy
+24) ARP poisioning (Addresses Resoning Protocal)
+25) Spoofing
+26) Hasing
+27) Metasploit
+28) Back door
+29) Cross fight
+30) Haking
      ->Ganning unauthorised acesses
-30) Ethical Haking
+31) Ethical Haking
     ->Ganning unauthorised acesses with writen Concen
-31) Web Application penetration testing
-32) Web Site
-33) Web Page
-34) Web Server (which Computer)
-35) Web Application (user intract)
+32) Web Application penetration testing
+33) Web Site
+34) Web Page
+35) Web Server (which Computer)
+36) Web Application (user intract)
     Opperchinity
     1) affence -red
     2) deffence (SOC-Security Operation Control)-blue
@@ -53,7 +54,7 @@
              > Encription - convertion of clear text to cyber text
           -> Availability
              > like ATM
-36) Athentication ( verify the identity)
+37) Athentication ( verify the identity)
     -> verify is to something you Know about that
     -> Something is to know you have
     -> something you are
@@ -76,5 +77,24 @@
     0.0.0.0 - 255.255.255.255
 51) request time out na connection wrong
 52) Destination host unreachable na routing wrong
-53) cd.. for backword
-54) cd for forword
+53) cmd for basic command
+54) power shell for windows command
+55) the command is correct nothing is print
+56) nat used for to convert the public network to private network
+57) vpn - Encryption / Decryption
+58) RSA AES
+59) ------------vpn------------
+60) Client <------------> Server
+61) -----------vpn-------------
+62) Encryption - clear text -> Cipher text
+63) Decryption - Cipher text -> clear text
+64) Symmetric Encrp - Single Key
+65) Asymmetric Encrp - Public/Private Key
+66) what is 3 way hand shake:
+    >SYN
+    >SYN_ACK
+    >ACK
+67) TLS hand shake: transerver security
+68)  Get-FileHash used for finding hash (hash means the official vallue)
+69)  
+70)  
