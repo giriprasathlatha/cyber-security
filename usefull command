@@ -9,3 +9,7 @@ mkdir is a directory (to create the folder)
 directly open the file with ls /name of the file
 cp for copy the command
 python -m http.server 80
+all ways kali start with sudo (sudo is a key word) -> do as a super user => meaning for sudo
+kali natworking command ( nmcli networking on)
+or (service NetworkManager start)
+/etc/apt/sources.list
