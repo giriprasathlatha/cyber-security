@@ -10,8 +10,8 @@
 10) TCP ports-65535
 11) UDP ports-65535
 12) github(HTTP-443)(lock file)
-13) unsafe(HTTPS-80)(without lock file)
-14) 
+13) unsafe(HTTPS-80)(without lock file) -> TCP Handshake
+14)                                               |-> TLS Handshake
 15) Block Chain Security
 16) Exploit
 17) SQL ingection
@@ -97,4 +97,20 @@
 67) TLS hand shake: transerver security
 68)  Get-FileHash used for finding hash (hash means the official vallue)
 69)  all permatutation and compination is called Brut force
-70)  
+70)  Types of Environment:
+      1) QA Environment  -test build
+      2) Staging Environment - Actual copy of production
+      3) Production Environment - Live websites/web app
+71)  Request --------> Server Response
+    >HTTP Method        Response Code
+    >GET                    1xx - Information
+    >POST                   2xx - ok
+    >PUT                    3xx - Redirection
+    >OPTIONS                4xx - Client-side error
+    >DELETE                 5xx - Server-side error
+72) Client -------------------> Proxy ----------------> Server
+73) proxy means having middle person form the both side
+74) more than one proxy also having
+75) SNIPER ATTACK -- INTRUDER
+76) HIODEN WEBSITE SEEING
+77) 
