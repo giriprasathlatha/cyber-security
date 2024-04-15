@@ -113,3 +113,11 @@
 74) more than one proxy also having
 75) SNIPER ATTACK -- INTRUDER
 76) HIODEN WEBSITE SEEING
+77) SSO (Single Sign-On)
+78) CISCO -- Secure web appliances
+79) Cloud Services models
+    > SaaS ==> Software as a Services 
+    > PaaS ==> Plate form as a Services
+    > IaaS ==> Infrastructue as a Services
+80) testing,receving && retreving the data
+81)  
