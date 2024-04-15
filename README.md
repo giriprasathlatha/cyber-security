@@ -113,4 +113,3 @@
 74) more than one proxy also having
 75) SNIPER ATTACK -- INTRUDER
 76) HIODEN WEBSITE SEEING
-77) 
