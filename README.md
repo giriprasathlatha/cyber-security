@@ -120,4 +120,71 @@
     > PaaS ==> Plate form as a Services
     > IaaS ==> Infrastructue as a Services
 80) testing,receving && retreving the data
-81)  
+
+----------------------------------------------------- 16/04/2024  ----------------------------------------------------
+
+-> Reactive -- After the attack
+-> Proacrive -- Before the attack
+
+
+81) Types of Cloud security Models:
+82)  public -- to access by all
+83)  private -- to be a specific acesses
+84)  hybrid -- evry organization have a website
+85)  community -- one peritcular organization
+
+Cloud services products:
+> AWS
+> Microsoft Azure
+> Google cloud
+
+Cloud Security Challenges:
+> Data Breaches
+> Data loss
+> Compliance Concerns
+> Insider Threats
+
+Regulatory Complianse in cloud Security
+>GDPR -- General Data Production Regulation
+>GRC -- Goverance Risk and Comblians
+>HIPAA -- Health Insurance Portability and Accountability Act
+>PCIDSS -- Payment Cerd Industry Data Security Standard
+>ISQ 27001 -- ISMS
+>ISMS -- Information Security Management Systems
+>CMM -- Capability Maturity Model
+
+Future Trenas in CLoud Security:
+> Zero trust Security Models:
+   1) MAC -- Moduratory Acesses Control
+   2) DAC -- Discreanary Acesses Control
+   3) RBAC -- Role Base Acesses Control
+> AD -- Active Directory
+> DC -- Domain Control
+
+CISCO WAF Features :
+> Data Loss Prevention
+> Native FTP Protection
+
+WAF -- Web Application Firewall
+
+How to you ditect the SQL injuction:
+   1) single Quote
+   2) Double Quote
+Prevent :
+ 1) paramentarized Quries
+
+Man-In-The-Middle Attack:
+
+Social Engineering Attack Vectors :
+ 1) Technical :
+     1) Vishing
+     2) Phishing and Trojan Email
+     3) Spear Phishing
+     4) Spam Email
+     5) Interesting Software
+     6) Popup Window
+     7) Baiting
+     8) whaling
+
+ 2) Hardware :
+      1) old unused
