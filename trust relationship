@@ -1,0 +1,11 @@
+Trust Relationship
+Nature of Trust
+Direction of Trust
+Nature of Domains
+1)A relationship between two domains to authentication from one domain to another domain for access domain resources.
+ 2) Transitive                                                                               Non-transitive
+3)  > oneway incoming  -- User Domain
+    > oneway outgoing  -- Resource Domain 
+    > Twoway   ---- Users/ Resource
+4) trusted Domain -- incoming domain
+   trusting Domain -- outgoing domain
