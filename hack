@@ -49,3 +49,20 @@ try hack me
 advent of server 2022
 
 digital farencic -- valatality3,memtump
+
+ghidra --- forens ic tools 
+john hammond --- forenic && revrse engineering
+veracrypt tool --for using the forensic 
+
+
+IR -- Incident Response
+DR -- Disaster Recavery 
+BC -- Business Contunity
+
+4--W:
+ > What
+ > Who
+ > When
+ > Where
+
+Tech_Support 1 --- in try hack me  
